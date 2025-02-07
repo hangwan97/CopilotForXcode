@@ -6,7 +6,7 @@
 tool that helps you write code faster and smarter. Copilot for Xcode is an Xcode
 extension that provides inline coding suggestions as you type.
 
-## Beta Preview Policy
+## Preview Policy
 
 Use of the GitHub Copilot Xcode Extension is subject to [GitHub's Pre-Release Terms](https://docs.github.com/en/site-policy/github-terms/github-pre-release-license-terms). We want to remind you that:
 
