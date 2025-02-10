@@ -15,6 +15,7 @@ Use of the GitHub Copilot Xcode Extension is subject to [GitHub's Pre-Release Te
 
 ## Requirements
 
+
 - macOS 12+
 - Xcode 8+
 - A GitHub Copilot subscription. To learn more, visit [https://github.com/features/copilot](https://github.com/features/copilot).
